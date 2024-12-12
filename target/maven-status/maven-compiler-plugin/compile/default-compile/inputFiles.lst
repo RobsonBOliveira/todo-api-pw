@@ -1,14 +1,20 @@
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/TodoApiApplication.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/DTO/Estado.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/DTO/TodoCreateDTO.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/DTO/TodoDTO.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/DTO/UsuarioCreateDTO.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/DTO/UsuarioDTO.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/controllers/TodoController.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/api/controllers/UserController.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/entities/Todo.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/entities/Usuario.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/repositories/TodoRepository.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/repositories/UsuarioRepository.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/services/TodoService.java
-/home/gabriel/Downloads/todoAPI/src/main/java/br/edu/ufersa/pw/todo/todoAPI/domain/services/UsuarioService.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\controllers\TodoController.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\controllers\UserController.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\DTO\Estado.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\DTO\TodoCreateDTO.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\DTO\TodoDTO.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\DTO\UsuarioCreateDTO.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\DTO\UsuarioDTO.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\api\exceptions\APIExceptionHandler.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\entities\Todo.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\entities\Usuario.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\repositories\TodoRepository.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\repositories\UsuarioRepository.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\services\AuthenticationService.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\services\TodoService.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\services\UserDetailsServiceImpl.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\domain\services\UsuarioService.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\filters\AuthorizationFilter.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\filters\LoginFilter.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\SecurityConfig.java
+C:\dev\Programação Web\pw2024.3TodoAPI\src\main\java\br\edu\ufersa\pw\todo\todoAPI\TodoApiApplication.java
